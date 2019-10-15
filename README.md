@@ -1,6 +1,7 @@
 # Welcome
 
-Bloop
+This is a test
+
 ## Learning How To Learn
 
 The most common misconception we get when people start this course is that we're teaching you Ruby, Javascript, HTML and CSS. Don't get me wrong, we are going to teach you those things, but that's actually not the most important set of things you're going to learn.
